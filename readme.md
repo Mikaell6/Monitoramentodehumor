@@ -10,6 +10,6 @@
 
 🛠️ Recursos/Tecnologias Utilizados: VisualCode, Conhecimentos em HTML.
 💡 PMI I
-🔗 url github:
+🔗 url github:https://github.com/Mikaell6/Monitoramentodehumor
 
-🛬 url landpage
+🛬 url landpage: https://mikaell6.github.io/Monitoramento-de-Humor/
