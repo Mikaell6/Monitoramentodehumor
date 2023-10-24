@@ -12,4 +12,4 @@
 💡 PMI I
 🔗 url github:https://github.com/Mikaell6/Monitoramentodehumor
 
-🛬 url landpage: https://mikaell6.github.io/Monitoramento-de-Humor/
+🛬 url landpage: 
