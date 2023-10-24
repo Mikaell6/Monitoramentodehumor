@@ -1,0 +1,22 @@
+body{
+    color:white;
+    background-color:rgb(61, 130, 195);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {  
+  
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.center {
+    text-align: center;
+}
