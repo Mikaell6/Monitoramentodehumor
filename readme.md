@@ -4,7 +4,7 @@
 
 🙂 Nicho: Pessoas que sentem que a instabilidade de seu próprio humor pode e/ou afetar seu dia a dia na escola, trabalho e convívio social.
 
-🎁 Proposta de Valor: Zero Custo, Monitoramento 24 Horas, Sempre que o Usuário desejar, Além da portabilidade podendo ser acessado a qualquer momento pelo celular do usuário.
+🎁 Proposta de Valor: Disponibilizar uma plataforma para o paciente registrar seus sentimentos e mapear possíveis causas para viabilizar um tratamento mais efetivo.
 
 🧑‍💻👩‍💻 Equipe: Mikael Sousa Bueno/ Gustavo Redivo / Matheus Wolf
 
